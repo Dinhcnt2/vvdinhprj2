@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\prj2\\project2_vvd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD978CDB-016F-4198-9F57-91027EA3C25E}|project2_vvd\\project2_vvd.csproj|D:\\prj2\\project2_vvd\\project2_vvd\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD978CDB-016F-4198-9F57-91027EA3C25E}|project2_vvd\\project2_vvd.csproj|solutionrelative:project2_vvd\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD978CDB-016F-4198-9F57-91027EA3C25E}|project2_vvd\\project2_vvd.csproj|d:\\prj2\\project2_vvd\\project2_vvd\\views\\san_pham\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD978CDB-016F-4198-9F57-91027EA3C25E}|project2_vvd\\project2_vvd.csproj|solutionrelative:project2_vvd\\views\\san_pham\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD978CDB-016F-4198-9F57-91027EA3C25E}|project2_vvd\\project2_vvd.csproj|d:\\prj2\\project2_vvd\\project2_vvd\\controllers\\san_phamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD978CDB-016F-4198-9F57-91027EA3C25E}|project2_vvd\\project2_vvd.csproj|solutionrelative:project2_vvd\\controllers\\san_phamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD978CDB-016F-4198-9F57-91027EA3C25E}|project2_vvd\\project2_vvd.csproj|D:\\prj2\\project2_vvd\\project2_vvd\\views\\loai_san_pham\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD978CDB-016F-4198-9F57-91027EA3C25E}|project2_vvd\\project2_vvd.csproj|solutionrelative:project2_vvd\\views\\loai_san_pham\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD978CDB-016F-4198-9F57-91027EA3C25E}|project2_vvd\\project2_vvd.csproj|D:\\prj2\\project2_vvd\\project2_vvd\\controllers\\loai_san_phamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD978CDB-016F-4198-9F57-91027EA3C25E}|project2_vvd\\project2_vvd.csproj|solutionrelative:project2_vvd\\controllers\\loai_san_phamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD978CDB-016F-4198-9F57-91027EA3C25E}|project2_vvd\\project2_vvd.csproj|D:\\prj2\\project2_vvd\\project2_vvd\\controllers\\hoa_doncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD978CDB-016F-4198-9F57-91027EA3C25E}|project2_vvd\\project2_vvd.csproj|solutionrelative:project2_vvd\\controllers\\hoa_doncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD978CDB-016F-4198-9F57-91027EA3C25E}|project2_vvd\\project2_vvd.csproj|D:\\prj2\\project2_vvd\\project2_vvd\\controllers\\quan_tricontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD978CDB-016F-4198-9F57-91027EA3C25E}|project2_vvd\\project2_vvd.csproj|solutionrelative:project2_vvd\\controllers\\quan_tricontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD978CDB-016F-4198-9F57-91027EA3C25E}|project2_vvd\\project2_vvd.csproj|D:\\prj2\\project2_vvd\\project2_vvd\\views\\quan_tri\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD978CDB-016F-4198-9F57-91027EA3C25E}|project2_vvd\\project2_vvd.csproj|solutionrelative:project2_vvd\\views\\quan_tri\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD978CDB-016F-4198-9F57-91027EA3C25E}|project2_vvd\\project2_vvd.csproj|D:\\prj2\\project2_vvd\\project2_vvd\\controllers\\khach_hangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD978CDB-016F-4198-9F57-91027EA3C25E}|project2_vvd\\project2_vvd.csproj|solutionrelative:project2_vvd\\controllers\\khach_hangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD978CDB-016F-4198-9F57-91027EA3C25E}|project2_vvd\\project2_vvd.csproj|D:\\prj2\\project2_vvd\\project2_vvd\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD978CDB-016F-4198-9F57-91027EA3C25E}|project2_vvd\\project2_vvd.csproj|solutionrelative:project2_vvd\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD978CDB-016F-4198-9F57-91027EA3C25E}|project2_vvd\\project2_vvd.csproj|D:\\prj2\\project2_vvd\\project2_vvd\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD978CDB-016F-4198-9F57-91027EA3C25E}|project2_vvd\\project2_vvd.csproj|solutionrelative:project2_vvd\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\prj2\\project2_vvd\\project2_vvd\\Views\\SAN_PHAM\\Create.cshtml",
+              "RelativeDocumentMoniker": "project2_vvd\\Views\\SAN_PHAM\\Create.cshtml",
+              "ToolTip": "D:\\prj2\\project2_vvd\\project2_vvd\\Views\\SAN_PHAM\\Create.cshtml",
+              "RelativeToolTip": "project2_vvd\\Views\\SAN_PHAM\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-19T19:46:25.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SAN_PHAMController.cs",
+              "DocumentMoniker": "D:\\prj2\\project2_vvd\\project2_vvd\\Controllers\\SAN_PHAMController.cs",
+              "RelativeDocumentMoniker": "project2_vvd\\Controllers\\SAN_PHAMController.cs",
+              "ToolTip": "D:\\prj2\\project2_vvd\\project2_vvd\\Controllers\\SAN_PHAMController.cs",
+              "RelativeToolTip": "project2_vvd\\Controllers\\SAN_PHAMController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T19:46:08.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\prj2\\project2_vvd\\project2_vvd\\Views\\LOAI_SAN_PHAM\\Create.cshtml",
+              "RelativeDocumentMoniker": "project2_vvd\\Views\\LOAI_SAN_PHAM\\Create.cshtml",
+              "ToolTip": "D:\\prj2\\project2_vvd\\project2_vvd\\Views\\LOAI_SAN_PHAM\\Create.cshtml",
+              "RelativeToolTip": "project2_vvd\\Views\\LOAI_SAN_PHAM\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-19T19:41:27.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\prj2\\project2_vvd\\project2_vvd\\Views\\QUAN_TRI\\Index.cshtml",
+              "RelativeDocumentMoniker": "project2_vvd\\Views\\QUAN_TRI\\Index.cshtml",
+              "ToolTip": "D:\\prj2\\project2_vvd\\project2_vvd\\Views\\QUAN_TRI\\Index.cshtml",
+              "RelativeToolTip": "project2_vvd\\Views\\QUAN_TRI\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-19T19:35:05.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QUAN_TRIController.cs",
+              "DocumentMoniker": "D:\\prj2\\project2_vvd\\project2_vvd\\Controllers\\QUAN_TRIController.cs",
+              "RelativeDocumentMoniker": "project2_vvd\\Controllers\\QUAN_TRIController.cs",
+              "ToolTip": "D:\\prj2\\project2_vvd\\project2_vvd\\Controllers\\QUAN_TRIController.cs",
+              "RelativeToolTip": "project2_vvd\\Controllers\\QUAN_TRIController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T19:34:58.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "KHACH_HANGController.cs",
+              "DocumentMoniker": "D:\\prj2\\project2_vvd\\project2_vvd\\Controllers\\KHACH_HANGController.cs",
+              "RelativeDocumentMoniker": "project2_vvd\\Controllers\\KHACH_HANGController.cs",
+              "ToolTip": "D:\\prj2\\project2_vvd\\project2_vvd\\Controllers\\KHACH_HANGController.cs",
+              "RelativeToolTip": "project2_vvd\\Controllers\\KHACH_HANGController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T19:33:45.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HOA_DONController.cs",
+              "DocumentMoniker": "D:\\prj2\\project2_vvd\\project2_vvd\\Controllers\\HOA_DONController.cs",
+              "RelativeDocumentMoniker": "project2_vvd\\Controllers\\HOA_DONController.cs",
+              "ToolTip": "D:\\prj2\\project2_vvd\\project2_vvd\\Controllers\\HOA_DONController.cs",
+              "RelativeToolTip": "project2_vvd\\Controllers\\HOA_DONController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T19:33:10.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\prj2\\project2_vvd\\project2_vvd\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "project2_vvd\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\prj2\\project2_vvd\\project2_vvd\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "project2_vvd\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-19T19:09:45.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LOAI_SAN_PHAMController.cs",
+              "DocumentMoniker": "D:\\prj2\\project2_vvd\\project2_vvd\\Controllers\\LOAI_SAN_PHAMController.cs",
+              "RelativeDocumentMoniker": "project2_vvd\\Controllers\\LOAI_SAN_PHAMController.cs",
+              "ToolTip": "D:\\prj2\\project2_vvd\\project2_vvd\\Controllers\\LOAI_SAN_PHAMController.cs",
+              "RelativeToolTip": "project2_vvd\\Controllers\\LOAI_SAN_PHAMController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T19:31:15.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\prj2\\project2_vvd\\project2_vvd\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "project2_vvd\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\prj2\\project2_vvd\\project2_vvd\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "project2_vvd\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T19:28:01.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\prj2\\project2_vvd\\project2_vvd\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "project2_vvd\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\prj2\\project2_vvd\\project2_vvd\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "project2_vvd\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-19T19:22:51.303Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

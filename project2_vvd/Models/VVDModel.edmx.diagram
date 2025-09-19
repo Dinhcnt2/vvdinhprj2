@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="259f937a5baf4b0cba221f6c90c19b4f" Name="Diagram1">
+        <EntityTypeShape EntityType="CuaHangGiayTheThaoModel.CT_HOA_DON" Width="1.5" PointX="5.25" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="CuaHangGiayTheThaoModel.HOA_DON" Width="1.5" PointX="3" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CuaHangGiayTheThaoModel.KHACH_HANG" Width="1.5" PointX="0.75" PointY="7" IsExpanded="true" />
+        <EntityTypeShape EntityType="CuaHangGiayTheThaoModel.LOAI_SAN_PHAM" Width="1.5" PointX="0.75" PointY="1.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="CuaHangGiayTheThaoModel.QUAN_TRI" Width="1.5" PointX="5.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CuaHangGiayTheThaoModel.SAN_PHAM" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <AssociationConnector Association="CuaHangGiayTheThaoModel.FK__CT_HOA_DO__HoaDo__1FCDBCEB" ManuallyRouted="false" />
+        <AssociationConnector Association="CuaHangGiayTheThaoModel.FK__CT_HOA_DO__SanPh__20C1E124" ManuallyRouted="false" />
+        <AssociationConnector Association="CuaHangGiayTheThaoModel.FK__HOA_DON__MaKhach__1BFD2C07" ManuallyRouted="false" />
+        <AssociationConnector Association="CuaHangGiayTheThaoModel.FK__SAN_PHAM__MaLoai__15502E78" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
